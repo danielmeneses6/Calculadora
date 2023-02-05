@@ -603,6 +603,7 @@ public class Igcalculadora extends javax.swing.JFrame {
     private void botoncosenoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botoncosenoActionPerformed
         f=true;
         select=6;
+        //se asigna valor en el switchgit
     }//GEN-LAST:event_botoncosenoActionPerformed
 
     private void botontangenteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botontangenteActionPerformed
